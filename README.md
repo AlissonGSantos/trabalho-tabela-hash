@@ -65,7 +65,32 @@ Nome: Maria
 Telefone de Maria: 12345 (tempo de busca: 0.02 ms)
 ```
 
-## Sugestões Adicionais
 
-- Para a função hash, você pode utilizar uma função simples, como a soma dos valores ASCII dos caracteres do nome, ou, para um desafio extra, uma função hash mais eficiente (por exemplo, a função `std::hash` em C++).
-- Teste o programa com diferentes tamanhos de tabela para observar o impacto de colisões e performance de busca.
+
+## Funcionalidades
+
+     1 - Adicionar contato
+![image](https://github.com/user-attachments/assets/78f3d06e-ebd3-426f-8c7b-a9239a0de842)
+     
+     2 - Buscar contato por nome
+![image](https://github.com/user-attachments/assets/c45b5cc1-8e7a-4a89-b427-8e4730346ada)
+    
+     2 - Buscar contato inexistente por nome
+![image](https://github.com/user-attachments/assets/0f75d8b0-246b-4860-8ee4-62fe364c0130)
+    
+     3 - Remover contato inexistente
+![image](https://github.com/user-attachments/assets/fc3a246f-810b-4201-b96d-5d250a4cde04)
+
+     3 - Remover contato   
+![image](https://github.com/user-attachments/assets/a52511d5-1434-4406-9556-3ed7b0c918fd)
+
+     4 - Exibir todos os contatos (antes da remoção)
+![image](https://github.com/user-attachments/assets/24275e9e-da4a-4b52-9895-352f498b3c1b)
+
+     4- Exibir todos os contatos (depois da remoção)
+![image](https://github.com/user-attachments/assets/2c4c5d01-bd8e-41ca-8d72-1a420d87c368)
+     
+     0 - Sair
+![image](https://github.com/user-attachments/assets/7d07777e-9da2-42b6-bfee-6e93b83b526a)
+
+
